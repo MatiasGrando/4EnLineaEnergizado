@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1603154876 source:e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\easybmp.cpp
+	"EasyBMP.h"
+	<iostream>
+
+1164963936 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1164963754 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\easybmp_datastructures.h
+
+1164964832 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\easybmp_bmp.h
+
+1164963762 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\easybmp_variousbmputilities.h
+
+1604016726 source:e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\main.cpp
+	<iostream>
+	"Consola.h"
+
+1496404477 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\consola.h
+	"CuatroEnLineaEnergizado.h"
+
+1496425842 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\cuatroenlineaenergizado.h
+	"Lista.h"
+	"IndiceColumna.h"
+	<iostream>
+	"EasyBMP.h"
+
+1496333991 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\lista.h
+	"Nodo.h"
+	"Ficha.h"
+
+1494930043 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\nodo.h
+
+1496333991 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\ficha.h
+
+1496401767 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\indicecolumna.h
+	"Columna.h"
+
+1496333991 e:\users\matias\downloads\grupo alfa-tp nº2\trabajo practico 2 calvo\include\columna.h
+	"Ficha.h"
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Trabajo practico 2 calvo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Trabajo practico 2 calvo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Trabajo practico 2 calvo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Columna.h" />
+		<Unit filename="include/Consola.h" />
+		<Unit filename="include/CuatroEnLineaEnergizado.h" />
+		<Unit filename="include/EasyBMP.cpp" />
+		<Unit filename="include/EasyBMP.h" />
+		<Unit filename="include/EasyBMP_BMP.h" />
+		<Unit filename="include/EasyBMP_DataStructures.h" />
+		<Unit filename="include/EasyBMP_VariousBMPutilities.h" />
+		<Unit filename="include/Ficha.h" />
+		<Unit filename="include/IndiceColumna.h" />
+		<Unit filename="include/Lista.h" />
+		<Unit filename="include/Nodo.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
