@@ -1,6 +1,6 @@
 # 4EnLineaEnergizado
-Juego 4 en linea
-Se crea un tablero en una imagen que se actualiza una vez que un jugador inserta una ficha atravez de easyMBP 
+Juego 4 en linea.
+Se crea un tablero en una imagen que se actualiza una vez que un jugador inserta una ficha atravez de easyMBP. 
 //Uso de 
     *Memoria Dinamica
     *Listas
