@@ -5,7 +5,11 @@ Este juego cuenta con un nuevo factor, cada ficha posee energia, la cual increme
 
 Tambien crea un tablero por imagen atravez de EasyMBP que se actualiza cada vez que un jugador inserta una ficha atravez
 
-Se utilizaron conceptos de  * Memoria Dinamica * Listas * Nodos * Objetos
+Se utilizaron conceptos de  
+* Memoria Dinamica 
+* Listas 
+* Nodos 
+* Objetos
 
 Cada .h cuenta con su .cpp , pero para poder compilarlo se encuentra todo en su .h.
 
