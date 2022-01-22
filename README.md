@@ -1,13 +1,11 @@
 # 4EnLineaEnergizado
 Juego 4 en linea.
-Se crea un tablero en una imagen que se actualiza una vez que un jugador inserta una ficha atravez de easyMBP. 
-//Uso de 
-    *Memoria Dinamica
-    *Listas
-    *Nodos
-    *Objetos //
     
 Este juego cuenta con un nuevo factor, cada ficha posee energia, la cual incrementa o disminuye segun las fichas circundantes 
+
+Tambien crea un tablero por imagen atravez de EasyMBP que se actualiza cada vez que un jugador inserta una ficha atravez
+
+Se utilizaron conceptos de  * Memoria Dinamica * Listas * Nodos * Objetos
 
 Cada .h cuenta con su .cpp , pero para poder compilarlo se encuentra todo en su .h.
 
