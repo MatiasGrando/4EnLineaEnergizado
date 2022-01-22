@@ -1,7 +1,9 @@
 # 4EnLineaEnergizado
 Juego 4 en linea.
     
-Este juego cuenta con un nuevo factor, cada ficha posee energia, la cual incrementa o disminuye segun las fichas circundantes 
+Este juego cuenta con un nuevo factor, cada ficha posee energia, la cual incrementa o disminuye segun las fichas circundantes
+
+Posee [Diagrama de modulo principal](https://github.com/MatiasGrando/4EnLineaEnergizado/blob/master/Diagrama%20Modulo%20Principal.jpg) y [Manual de usuario y programador](https://github.com/MatiasGrando/4EnLineaEnergizado/blob/master/Manual%20de%20Usuario%20y%20Programador.docx)
 
 Tambien crea un tablero por imagen atravez de EasyMBP que se actualiza cada vez que un jugador inserta una ficha atravez
 
